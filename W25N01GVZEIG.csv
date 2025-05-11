@@ -1,0 +1,8 @@
+"Reference","Value","Footprint","Datasheet","Qty","DNP","Exclude from BOM","Exclude from Board"
+"C1","100nF","PCM_Capacitor_SMD_AKL:C_1206_3216Metric","~","1","","",""
+"D1","SMF3.3CA","PCM_Diode_SMD_AKL:D_SOD-123F","https://item.szlcsc.com/48682096.html?fromZone=s_s__%2522SMF3.3CA%2522&spm=sc.gb.xh1.zy.n___sc.it.hd.ss&lcsc_vid=RVRcUVYDElFdXlJeRAALAwJQTwNeBgZeQ1QMUwJSRlQxVlNSQVZWVV1VR1lXVTtW","1","","",""
+"J1","Conn_01x08","Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical","~","1","","",""
+"J2,J3","Conn_01x03","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","~","2","","",""
+"LED1","red","PCM_LED_SMD_AKL:LED_1206_3216Metric","~","1","","",""
+"R1","1K","PCM_Resistor_SMD_AKL:R_1206_3216Metric","~","1","","",""
+"U1","W25N01GVZEIG","Package_SON:WSON-8-1EP_8x6mm_P1.27mm_EP3.4x4.3mm","https://www.jlc-smt.com/lcsc/detail?componentCode=C88868","1","","",""
